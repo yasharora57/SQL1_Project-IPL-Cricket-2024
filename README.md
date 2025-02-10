@@ -2,6 +2,16 @@
 
 # Cricket Data Analysis SQL Project
 
+## How to Run the Project
+
+1. **Download SQLite:**  
+   - Download and install SQLite from the official [SQLite website](https://www.sqlite.org/download.html).
+
+2. **Execute the SQL Code Files:**  
+   - Run the SQL code files provided in this repository in the following order:
+     1. **sql1** – This file sets up the initial data model and creates the necessary tables.
+     2. **sql2** – This file contains the analysis queries that generate the required summaries.
+
 ## Introduction
 
 This project is designed to analyze cricket 2024 IPL cricket match data between teams Chennai Super Kings (CSK) and Royal Challengers Bangalore (RCB) using SQL. The repository contains SQL code files that implement various queries and data transformations, along with a comprehensive data model that captures key aspects of cricket matches. The goal is to derive insights into match outcomes, player performance, and other relevant metrics in the sport.
