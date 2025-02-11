@@ -2,7 +2,7 @@
 
 # Cricket Data Analysis SQL Project
 
-## How to Run the Project
+## How to Use
 
 1. **Download SQLite:**  
    - Download and install SQLite from the official [SQLite website](https://www.sqlite.org/download.html).
